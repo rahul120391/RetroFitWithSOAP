@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">reequipar con jabón</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="click">Haga clic en</string>
+    <string name="change_lan">Cambiar el idioma</string>
+    <string name="dummy_text">Este es el texto de relleno</string>
+</resources>
